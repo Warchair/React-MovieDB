@@ -1,0 +1,6 @@
+
+@media (max-width:915px) {
+    .carousel-caption {
+        display:none;
+    }
+}
